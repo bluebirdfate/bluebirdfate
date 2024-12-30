@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi! I'm Dylan, or bluebird! :)
 
-<!--
-**bluebirdfate/bluebirdfate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome! I’m passionate about **AI, machine learning, and data analytics**, and I thrive on solving real-world problems with innovative solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ About Me
+- 🎓 **Education**: M.S. in AI/ML (Computer Science) & B.S. in Business Management, specialization in Information Technology, **Colorado State University**  
+- 💼 **Current Role**: Product Support Engineer specializing in **ZPA (Zscaler Private Access) and ZIA (Zscaler Internet Access)**  
+- 🔍 **Areas of Interest**: Predictive Analytics, Cloud Security, and Text Mining  
+- 🌱 **Learning**: SAS Enterprise Miner, R, and advanced data visualization techniques
+
+---
+
+## 🔧 Technologies & Tools
+- **Programming Languages**: Python, R, SQL  
+- **Tools & Platforms**: SAS Enterprise Miner, Zscaler, AWS, Azure, GitHub, etc.
+- **Libraries**: Pandas, NumPy, Matplotlib, ggplot2  
+
+---
+
+## 🤝 Let’s Connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/dylanweimerskirch)  
+- 📧 Email: dylanweimerskirch@gmail.com  
+
+---
+
+Feel free to fork and explore my repositories, and do not hesitate to reach out to me!
