@@ -15,7 +15,7 @@ Welcome! I’m passionate about **AI, machine learning, and data analytics**, an
 ## 🔧 Technologies & Tools
 - **Programming Languages**: Python, R, SQL  
 - **Tools & Platforms**: SAS Enterprise Miner, Zscaler, AWS, Azure, GitHub, etc.
-- **Libraries**: Pandas, NumPy, Matplotlib, ggplot2  
+- **Libraries**: TensorFlow, PyTorch, Pandas, NumPy, Matplotlib, ggplot2  
 
 ---
 
