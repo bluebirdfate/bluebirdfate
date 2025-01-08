@@ -21,7 +21,7 @@ Welcome! I’m passionate about **AI, machine learning, and data analytics**, an
 
 ## 🤝 Let’s Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/dylanweimerskirch)  
-- 📧 Email: dylanweimerskirch@gmail.com  
+- 📧 Email: DylanWeimerskirch@gmail.com  
 
 ---
 
